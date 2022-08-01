@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ### Contacts
-[![email](https://img.shields.io/badge/email-eleges%20@%20ya.ru-8abd80)](#)  
-[![telegram](https://img.shields.io/badge/telegram-@cryptic_owl-8abd80)](#)  
-[![linkedin](https://img.shields.io/badge/linkedin-@eugene%20popov-8abd80)](#)  
+[![email](https://img.shields.io/badge/email-eleges%20@%20ya.ru-f5c945)](#)
+[![telegram](https://img.shields.io/badge/telegram-cryptic_owl-4799d1)](#)
+[![linkedin](https://img.shields.io/badge/linkedin-eugene%20popov-3579b1)](#)  
 
 I have over 10 years of hands-on diverse IT experience and passion for problem-solving and ideation. Adept in building strong relationships with peers. Skilled in data collecting techniques using SQL and designing, prototyping and testing ML solutions and assessing model’s accuracy and quality using Python.
 
