@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 -->
 
 ### PROFESSIONAL SKILLS
-● Data Preprocessing and Exploratory Data Analysis
-● Understanding of Supervised Machine Learning (Regression, Classification)
-● Classroom Experience with Data Extraction with SQL queries
-● Familiarity with Unsupervised Machine Learning (Clusterization, Neural Networks)
-● Basic Knowledge of Data / Computing Distributed Tools (MapReduce, Hadoop, Hive, Spark)
-● Some Experience with Numerical Methods, Time Series, Computer Vision, ML for Texts (NLP)
+- ● Data Preprocessing and Exploratory Data Analysis
+- ● Understanding of Supervised Machine Learning (Regression, Classification)
+- ● Classroom Experience with Data Extraction with SQL queries
+- ● Familiarity with Unsupervised Machine Learning (Clusterization, Neural Networks)
+- ● Basic Knowledge of Data / Computing Distributed Tools (MapReduce, Hadoop, Hive, Spark)
+- ● Some Experience with Numerical Methods, Time Series, Computer Vision, ML for Texts (NLP)
 
 
 ### COURSES
