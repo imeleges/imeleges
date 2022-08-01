@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-### Contacts
-[![email](https://img.shields.io/badge/email-eleges%20@%20ya.ru-f5c945)](#)
-[![telegram](https://img.shields.io/badge/telegram-cryptic_owl-4799d1)](#)
-[![linkedin](https://img.shields.io/badge/linkedin-eugene%20popov-3579b1)](#)  
-
 I have over 10 years of hands-on diverse IT experience and passion for problem-solving and ideation. Adept in building strong relationships with peers. Skilled in data collecting techniques using SQL and designing, prototyping and testing ML solutions and assessing model’s accuracy and quality using Python.
 
 
@@ -22,3 +17,12 @@ I have over 10 years of hands-on diverse IT experience and passion for problem-s
 [![certificate](https://img.shields.io/badge/сertificate-Data%20Scientist%20ENG-8abd80)](https://github.com/imeleges/YPDS_Projects/blob/main/certificates/сertificate_yandex_data_scientist_ENG.png)  
 [![certificate](https://img.shields.io/badge/сertificate-Data%20Scientist%20RUS-8abd80)](https://github.com/imeleges/YPDS_Projects/blob/main/certificates/сertificate_yandex_data_scientist_RUS.png)  
 - **100 Days of Code: The Complete Python Pro Bootcamp** Jan 2021 - Sep 2021 by **Udemy**
+
+### Contacts
+[![email](https://img.shields.io/badge/email-eleges%20@%20ya.ru-f5c945)](#)
+[![telegram](https://img.shields.io/badge/telegram-cryptic_owl-4799d1)](#)
+[![linkedin](https://img.shields.io/badge/linkedin-eugene%20popov-3579b1)](#)  
+
+[![email](https://img.shields.io/static/v1?label=&message=email&color=f5c945)](#)
+[![telegram](https://img.shields.io/static/v1?label=&message=telegram&color=4799d1)](#)
+[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=3579b1)](#)
