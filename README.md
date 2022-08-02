@@ -14,8 +14,8 @@ I have over 10 years of hands-on diverse IT experience and passion for problem-s
 
 ### COURSES
 - **Data Science Coding Bootcamp** Oct 2021 - Jun 2022 by **Yandex School of Data Analysis** (one of Europe's top tech companies)  
-[![certificate](https://img.shields.io/badge/сertificate-Data%20Scientist%20ENG-8abd80)](https://github.com/imeleges/YPDS_Projects/blob/main/certificates/сertificate_yandex_data_scientist_ENG.png)  
-[![certificate](https://img.shields.io/badge/сertificate-Data%20Scientist%20RUS-8abd80)](https://github.com/imeleges/YPDS_Projects/blob/main/certificates/сertificate_yandex_data_scientist_RUS.png)  
+[![certificate](https://img.shields.io/badge/сertificate-Data%20Scientist%20ENG-8abd80)](https://github.com/imeleges/YPDS_Projects/tree/main/certificates/сertificate_yandex_data_scientist_ENG.png)  
+[![certificate](https://img.shields.io/badge/сertificate-Data%20Scientist%20RUS-8abd80)](https://github.com/imeleges/YPDS_Projects/tree/main/certificates/сertificate_yandex_data_scientist_RUS.png)  
 - **100 Days of Code: The Complete Python Pro Bootcamp** Jan 2021 - Sep 2021 by **Udemy**
 
 ### Contacts
