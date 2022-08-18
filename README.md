@@ -19,7 +19,7 @@ I have over 10 years of hands-on diverse IT experience and passion for problem-s
 - **100 Days of Code: The Complete Python Pro Bootcamp** Jan 2021 - Sep 2021 by **Udemy**
 
 ### Contacts
-[![email](https://img.shields.io/badge/send%20me-email-f5c945)](mailto:eleges@ya.ru?subject=[GitHub])
+[![email](https://img.shields.io/badge/send%20me-email-f5c945)](mailto:cryptic.owl@yandex.com?subject=[GitHub])
 [![telegram](https://img.shields.io/badge/chat%20in-telegram-4799d1)](https://t.me/crypticowl)
 [![linkedin](https://img.shields.io/badge/add%20on-linkedin-3579b1)](https://www.linkedin.com/in/eugene--popov)  
 
